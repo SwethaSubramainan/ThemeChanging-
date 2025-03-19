@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+button{
+    height: 40px;
+    width: 120px;
+    background-color: aqua;
+    color: red;
+}
+button:hover{
+    cursor: pointer;
+    background-color:deeppink;
+    color:cornsilk;
+}
+.dark{
+    background-color: black;
+    color: white;
+
+}
+.light{
+    background-color: white;
+    color: black;
+}
